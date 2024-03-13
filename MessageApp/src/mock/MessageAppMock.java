@@ -16,10 +16,10 @@ import java.util.UUID;
 
 import javax.swing.*;
 
-import main.java.com.ubo.tp.message.core.EntityManager;
-import main.java.com.ubo.tp.message.core.database.IDatabase;
-import main.java.com.ubo.tp.message.datamodel.Message;
-import main.java.com.ubo.tp.message.datamodel.User;
+import message.core.EntityManager;
+import message.core.database.IDatabase;
+import message.datamodel.Message;
+import message.datamodel.User;
 
 public class MessageAppMock {
 

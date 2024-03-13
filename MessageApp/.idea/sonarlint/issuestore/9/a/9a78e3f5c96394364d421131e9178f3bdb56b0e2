@@ -1,0 +1,15 @@
+
+œ
+java:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜÷…›øÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àİì
+d
+java:S1854h"IRemove this useless assignment to local variable "inscriptionController".(ÒĞİÀıÿÿÿÿ
+]
+java:S1854g"GRemove this useless assignment to local variable "connexionController".(“ÿ½å
+N
+java:S1481g"8Remove this unused "connexionController" local variable.(“ÿ½å
+U
+java:S1481h":Remove this unused "inscriptionController" local variable.(ÒĞİÀıÿÿÿÿ
+F	java:S106”"+Replace this use of System.out by a logger.(¦üüµÿÿÿÿÿ
+A	java:S106™"+Replace this use of System.out by a logger.(£«èö
