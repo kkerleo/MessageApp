@@ -1,0 +1,36 @@
+
+†	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$7c1fdcdf-fb85-4196-bd95-b63b2aaed59f
+š
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğŒ§ùÿÿÿÿJ$22c5c906-d81c-458f-905d-31a1e3453d0f
+•
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ½£æJ$d549e6c3-abb2-4118-b653-040744050cf3
+„
+java:S1192À"GDefine a constant instead of duplicating this literal "Erreur" 3 times.(”œŠáJ$88c3fa69-78fc-4eff-9e3e-2cdaf6629a53
+d
+java:S16048"(Make this anonymous inner class a lambda(ÀåÖàJ$e74b58d9-9808-4234-96ef-b9f4885f2439
+d
+java:S1604A"(Make this anonymous inner class a lambda(“ã½‚J$0b584e75-a387-4e9a-8ed1-8abe2b1a41d5
+i
+java:S1604j"(Make this anonymous inner class a lambda(·‚ıøÿÿÿÿJ$59779656-865f-44f2-9bcd-beb5a760b3e9
+e
+java:S1604"(Make this anonymous inner class a lambda(ŞµÙÁJ$50de3aa0-f2f0-4ef2-8a93-0eaf6965a2cc
+e
+java:S1604¢"(Make this anonymous inner class a lambda(µè­ÀJ$61b72864-ef9d-4ccb-90ae-c98505a816fa
+j
+java:S1604¸"(Make this anonymous inner class a lambda(½Å¡ÔÿÿÿÿÿJ$e1eec926-1b1d-4505-9695-cd2b7554748e
+j
+java:S1604Æ"(Make this anonymous inner class a lambda(”ğ´€üÿÿÿÿJ$6430c910-1e04-4d8e-8e31-fbbb65dbe55f
+j
+java:S1604Ö"(Make this anonymous inner class a lambda(Êí˜ÈüÿÿÿÿJ$196b54fa-1cf0-474d-8093-07331eac4ac6
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óïıÒøÿÿÿÿJ$61851ecf-edd3-40c8-b3c0-18ea8c8f36b7
+
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¡î°âJ$dde053b6-bf6c-4a39-b1c4-48a2e48fe1cb
+„
+java:S1854Ş"BRemove this useless assignment to local variable "nouveauMessage".(èÚúàÿÿÿÿÿJ$ca0ea8de-7e13-4a3a-958c-c440ee091715
+Š	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şŠ®J$7afd1498-b4d7-452c-aa89-aa6176cfd04a
+z
+java:S1854‘"8Remove this useless assignment to local variable "user".(«ş§¿ıÿÿÿÿJ$b8dc00c8-0aa6-4227-af82-85c4c0307641
+k
+java:S1481‘")Remove this unused "user" local variable.(«ş§¿ıÿÿÿÿJ$de0567f7-4c0b-4b83-a356-9cffde65d5eb
+g	java:S106¦"+Replace this use of System.out by a logger.(íÏÙ‚J$85c0d123-dd3a-4a36-ab06-7c2b424d69dd
+l	java:S106¨"+Replace this use of System.out by a logger.(ÑĞÒÇıÿÿÿÿJ$df10260a-8d1f-46e0-81b3-2b0432113cd8

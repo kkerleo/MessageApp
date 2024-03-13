@@ -19,3 +19,5 @@ S
 #src/message/MessageAppLauncher.java,d\a\da9410f13c675d465b90dffa7d77d13f00f65a42
 n
 >src/message/datamodel/converter/XmlbeanDatamodelConverter.java,3\3\33b8c50f97e43794c6b89b384ded4237db612060
+U
+%src/message/ihm/View/AccueilView.java,d\d\dd57bd405db6986d70292a73a01cf6f3fbc86e89

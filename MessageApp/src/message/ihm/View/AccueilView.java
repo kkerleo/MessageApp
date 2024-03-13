@@ -138,7 +138,6 @@ public class AccueilView {
 
         JTextField rechercheTextField = new JTextField(20);
         JButton rechercheButton = new JButton("Rechercher");
-        rechercheButton.setPreferredSize(new Dimension(150,20));
         imageIcon = new ImageIcon("src/main/resources/images/Search.png");
         rechercheButton.setIcon(imageIcon);
         rechercheButton.addActionListener(new ActionListener() {
@@ -157,7 +156,6 @@ public class AccueilView {
         });
         JTextField rechercheMessTextField = new JTextField(20);
         JButton rechercheMessButton = new JButton("Rechercher");
-        rechercheMessButton.setPreferredSize(new Dimension(150,20));
         imageIcon = new ImageIcon("src/main/resources/images/Search.png");
         rechercheMessButton.setIcon(imageIcon);
 
