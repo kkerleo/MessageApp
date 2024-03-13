@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:userXml xmlns:ns2="http://www.example.org/message/">
+    <ID>d0a1fb0f-2b99-4974-9156-81577cd0a72a</ID>
+    <UserTag>PersonK</UserTag>
+    <UserPassword>password</UserPassword>
+    <Name>Person</Name>
+    <AvatarPath>C:\Users\killi\OneDrive\Images\Epson_03052021_135452.png</AvatarPath>
+</ns2:userXml>
