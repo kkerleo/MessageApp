@@ -1,0 +1,14 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿJ$2e5169f2-67ca-4e8e-a0d6-3869509ec701
+‡
+java:S1192)"FDefine a constant instead of duplicating this literal "Arial" 6 times.(ä ¦ÃşÿÿÿÿJ$33837e2a-03db-4602-9fad-6a1fe2ea663b
+i
+java:S1604B"(Make this anonymous inner class a lambda(©ıú¸úÿÿÿÿJ$cfba46cd-54f0-41ad-bb20-03c26030e23c
+i
+java:S1604g"(Make this anonymous inner class a lambda(ÚÌÿÿÿÿÿJ$f55a472f-1bf0-4841-96a4-4915d106aac4
+i
+java:S1604v"(Make this anonymous inner class a lambda(ŸØûÿÿÿÿJ$d0d3d802-3f74-4f20-bd52-59b4969282b3
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óïıÒøÿÿÿÿJ$abb647b8-f445-40fe-bd89-622839f27f1b
+e	java:S106u"+Replace this use of System.out by a logger.(ñáÉ*J$3f1b9ad4-5a4d-4ee2-a566-fd3136632faa
+g	java:S106’"+Replace this use of System.out by a logger.(íÏÙ‚J$4c3f6ff1-bd52-4ab8-b6d7-bc2679e4c224
+l	java:S106–"+Replace this use of System.out by a logger.(ÑĞÒÇıÿÿÿÿJ$a73a229d-e48e-4805-ae25-e770d7bcd246

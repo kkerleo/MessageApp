@@ -21,3 +21,17 @@ n
 >src/message/datamodel/converter/XmlbeanDatamodelConverter.java,3\3\33b8c50f97e43794c6b89b384ded4237db612060
 U
 %src/message/ihm/View/AccueilView.java,d\d\dd57bd405db6986d70292a73a01cf6f3fbc86e89
+W
+'src/message/ihm/View/ConnexionView.java,d\1\d19ec24ee0cfd3b61d0aaf76ab4883e331ac87d2
+Y
+)src/message/ihm/View/InscriptionView.java,4\c\4ceee6051eb53e80ca24a699cb86aa2cb0537370
+]
+-src/message/ihm/View/MessageListRenderer.java,b\9\b91aebc971b25fff95c746a4d10b564d2b579aea
+\
+,src/message/ihm/View/MessageAppMainView.java,2\2\2296f6c244c61fd779732d36ccb20c89c939a5c2
+T
+$src/message/ihm/View/ProfilView.java,2\2\225cf571527937da6866ff3691ca399ecd6ccfa8
+R
+"src/message/ihm/View/UserView.java,f\4\f4317eb39c80629aed969e5201db7e3f90565aba
+U
+%src/message/ihm/View/MessageView.java,7\9\79fece2f4425cdffe3945d608fbd0282cf3122fc

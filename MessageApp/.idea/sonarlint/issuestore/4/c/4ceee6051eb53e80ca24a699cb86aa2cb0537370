@@ -1,0 +1,13 @@
+
+i
+java:S1604E"(Make this anonymous inner class a lambda(ŸØûÿÿÿÿJ$be5faf14-1493-4939-9a4d-1fad659a45e4
+i
+java:S1604P"(Make this anonymous inner class a lambda(ÚÌÿÿÿÿÿJ$625dad5a-c992-42e4-b756-3169e33e8fda
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óïıÒøÿÿÿÿJ$1d298967-df56-4ee2-a60a-3f8eaf2fe57d
+x
+java:S1948"7Make "inscriptionController" transient or serializable.(ùïÿÃøÿÿÿÿJ$5c4e1ebd-a73b-4b87-bc73-f6b4594b4f98
+v
+java:S1948"5Make "inscriptionListener" transient or serializable.(µäŠÈşÿÿÿÿJ$f19aa538-5d95-4474-bd96-b9921cf062c9
+	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¥Õ¿øÿÿÿÿJ$58eac2e8-bdba-457c-bee7-4239a065f93e
+}
+java:S1172D"<Remove this unused method parameter "inscriptionController".(®¥Õ¿øÿÿÿÿJ$33095c9f-80e1-42e8-8874-a9ec6014899c

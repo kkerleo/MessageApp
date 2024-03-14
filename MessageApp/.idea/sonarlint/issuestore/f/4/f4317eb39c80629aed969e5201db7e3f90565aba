@@ -1,0 +1,10 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(π§ωÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(σούÒψÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òπρ¶ϋÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ΟΰΨόÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'message.datamodel.User'.(ω“
+[
+java:S1128"ERemove this unused import 'message.ihm.controller.AccueilController'.(μψ¬

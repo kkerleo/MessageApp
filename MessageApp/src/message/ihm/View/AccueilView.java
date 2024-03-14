@@ -215,11 +215,10 @@ public class AccueilView {
             public void actionPerformed(ActionEvent e) {
                 String nouveauMessage = demanderNouveauMessage();
                 if(nouveauMessage != null){
-                    if(nouveauMessage.length()<200){
+                    if(nouveauMessage.length()<200 && !nouveauMessage.isEmpty()){
                         accueilController.ajouterMessage(nouveauMessage);
                     }else {
-                        JOptionPane.showMessageDialog(mFrame, "Message non compatible (supérieur à 200)", "Erreur", JOptionPane.ERROR_MESSAGE);
-                        nouveauMessage = demanderNouveauMessage();
+                        JOptionPane.showMessageDialog(mFrame, "Message non compatible (supérieur à 200 ou vide)", "Erreur", JOptionPane.ERROR_MESSAGE);
                     }
                 }
             }
@@ -270,7 +269,6 @@ public class AccueilView {
         return JOptionPane.showInputDialog(mFrame, "Veuillez saisir votre nouveau message :", "Ajouter Message", JOptionPane.PLAIN_MESSAGE);
     }
     private void afficherPopUpMessage(String utilisateur, Date date, String message,String avatar) {
-        User user = accueilController.getConnectedUser();
         ImageIcon imageIcon = new ImageIcon(avatar);
 
         // Utilisation de SimpleDateFormat pour formater la date

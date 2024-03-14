@@ -1,36 +1,30 @@
 
-†	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$7c1fdcdf-fb85-4196-bd95-b63b2aaed59f
+†	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$b4e63fc6-432b-44db-96c0-721be60935f7
 š
-java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğŒ§ùÿÿÿÿJ$22c5c906-d81c-458f-905d-31a1e3453d0f
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğŒ§ùÿÿÿÿJ$24c45415-d46e-410f-b0cb-0b743991eefa
 •
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ½£æJ$d549e6c3-abb2-4118-b653-040744050cf3
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ½£æJ$f48478a1-6629-461f-9aa2-8464091cee86
 „
-java:S1192À"GDefine a constant instead of duplicating this literal "Erreur" 3 times.(”œŠáJ$88c3fa69-78fc-4eff-9e3e-2cdaf6629a53
+java:S1192À"GDefine a constant instead of duplicating this literal "Erreur" 3 times.(”œŠáJ$e739c84c-4c3e-407f-9852-634934d4ddaf
 d
-java:S16048"(Make this anonymous inner class a lambda(ÀåÖàJ$e74b58d9-9808-4234-96ef-b9f4885f2439
+java:S16048"(Make this anonymous inner class a lambda(ÀåÖàJ$d0a30364-5361-4d8d-822b-bfb607a00f38
 d
-java:S1604A"(Make this anonymous inner class a lambda(“ã½‚J$0b584e75-a387-4e9a-8ed1-8abe2b1a41d5
+java:S1604A"(Make this anonymous inner class a lambda(“ã½‚J$6230a120-5e7e-4d79-a345-102f51aecffe
 i
-java:S1604j"(Make this anonymous inner class a lambda(·‚ıøÿÿÿÿJ$59779656-865f-44f2-9bcd-beb5a760b3e9
+java:S1604j"(Make this anonymous inner class a lambda(·‚ıøÿÿÿÿJ$611cd603-c07e-4251-890f-4229cf194351
 e
-java:S1604"(Make this anonymous inner class a lambda(ŞµÙÁJ$50de3aa0-f2f0-4ef2-8a93-0eaf6965a2cc
+java:S1604"(Make this anonymous inner class a lambda(ŞµÙÁJ$59fb1236-706b-43c0-a7d1-c42e9fb9d905
 e
-java:S1604¢"(Make this anonymous inner class a lambda(µè­ÀJ$61b72864-ef9d-4ccb-90ae-c98505a816fa
+java:S1604¢"(Make this anonymous inner class a lambda(µè­ÀJ$bf244c24-7d09-494c-9d51-d95bdbd7ac8e
 j
-java:S1604¸"(Make this anonymous inner class a lambda(½Å¡ÔÿÿÿÿÿJ$e1eec926-1b1d-4505-9695-cd2b7554748e
+java:S1604¸"(Make this anonymous inner class a lambda(½Å¡ÔÿÿÿÿÿJ$a6c2bee6-eb14-43de-a536-cd8c7295da1e
 j
-java:S1604Æ"(Make this anonymous inner class a lambda(”ğ´€üÿÿÿÿJ$6430c910-1e04-4d8e-8e31-fbbb65dbe55f
+java:S1604Æ"(Make this anonymous inner class a lambda(”ğ´€üÿÿÿÿJ$81e3a916-bab6-4952-9858-0be95e033ca2
 j
-java:S1604Ö"(Make this anonymous inner class a lambda(Êí˜ÈüÿÿÿÿJ$196b54fa-1cf0-474d-8093-07331eac4ac6
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óïıÒøÿÿÿÿJ$61851ecf-edd3-40c8-b3c0-18ea8c8f36b7
+java:S1604Ö"(Make this anonymous inner class a lambda(Êí˜ÈüÿÿÿÿJ$4c111378-b447-406e-8e03-6b607e7348b5
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óïıÒøÿÿÿÿJ$0df80505-21cd-4eee-b7fc-c1825b9445c7
 
-java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¡î°âJ$dde053b6-bf6c-4a39-b1c4-48a2e48fe1cb
-„
-java:S1854Ş"BRemove this useless assignment to local variable "nouveauMessage".(èÚúàÿÿÿÿÿJ$ca0ea8de-7e13-4a3a-958c-c440ee091715
-Š	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şŠ®J$7afd1498-b4d7-452c-aa89-aa6176cfd04a
-z
-java:S1854‘"8Remove this useless assignment to local variable "user".(«ş§¿ıÿÿÿÿJ$b8dc00c8-0aa6-4227-af82-85c4c0307641
-k
-java:S1481‘")Remove this unused "user" local variable.(«ş§¿ıÿÿÿÿJ$de0567f7-4c0b-4b83-a356-9cffde65d5eb
-g	java:S106¦"+Replace this use of System.out by a logger.(íÏÙ‚J$85c0d123-dd3a-4a36-ab06-7c2b424d69dd
-l	java:S106¨"+Replace this use of System.out by a logger.(ÑĞÒÇıÿÿÿÿJ$df10260a-8d1f-46e0-81b3-2b0432113cd8
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¡î°âJ$80242958-6509-4d30-959b-cb6917f98159
+Š	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şŠ®J$c408ad70-d542-4e71-bab2-6e70857a525f
+g	java:S106¤"+Replace this use of System.out by a logger.(íÏÙ‚J$73e66842-eb95-4ac0-859a-b5635fa1e743
+l	java:S106¦"+Replace this use of System.out by a logger.(ÑĞÒÇıÿÿÿÿJ$c90b3265-665c-4a0d-8bfd-c13d780142d3
